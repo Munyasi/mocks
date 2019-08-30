@@ -180,5 +180,127 @@
     "LASTNAME": "STRETTELL",
     "IDNUMBER": "94029622"
   }
-]
+],
+  "companies": [{
+  "id": 1,
+  "company_name": "Bartell-Goldner",
+  "location": "23 Gale Park",
+  "category": "Home",
+  "registration_no": "X204084881"
+}, {
+  "id": 2,
+  "company_name": "Wisoky-Roob",
+  "location": "46107 Graedel Center",
+  "category": "Movies",
+  "registration_no": "N496422865"
+}, {
+  "id": 3,
+  "company_name": "Keeling-Hoeger",
+  "location": "670 Killdeer Court",
+  "category": "Health",
+  "registration_no": "X817622387"
+}, {
+  "id": 4,
+  "company_name": "Dooley-Thompson",
+  "location": "884 Barby Plaza",
+  "category": "Clothing",
+  "registration_no": "V236924093"
+}, {
+  "id": 5,
+  "company_name": "Kuphal, Wintheiser and Heathcote",
+  "location": "3824 Messerschmidt Drive",
+  "category": "Toys",
+  "registration_no": "M404018628"
+}, {
+  "id": 6,
+  "company_name": "Lemke, Roob and Rippin",
+  "location": "7 Green Terrace",
+  "category": "Kids",
+  "registration_no": "J275859586"
+}, {
+  "id": 7,
+  "company_name": "Dare Group",
+  "location": "23 Summerview Plaza",
+  "category": "Baby",
+  "registration_no": "K317488113"
+}, {
+  "id": 8,
+  "company_name": "Homenick-Walter",
+  "location": "86 Pierstorff Drive",
+  "category": "Baby",
+  "registration_no": "I477062172"
+}, {
+  "id": 9,
+  "company_name": "Harber-Shanahan",
+  "location": "996 Red Cloud Lane",
+  "category": "Computers",
+  "registration_no": "B453361571"
+}, {
+  "id": 10,
+  "company_name": "Mann Inc",
+  "location": "18 Chinook Road",
+  "category": "Home",
+  "registration_no": "O815623358"
+}, {
+  "id": 11,
+  "company_name": "Tromp Group",
+  "location": "7903 Bunting Alley",
+  "category": "Baby",
+  "registration_no": "H431363973"
+}, {
+  "id": 12,
+  "company_name": "Wolff, Connelly and Brekke",
+  "location": "36021 Schlimgen Road",
+  "category": "Grocery",
+  "registration_no": "Q285273230"
+}, {
+  "id": 13,
+  "company_name": "VonRueden-Nicolas",
+  "location": "5 Westridge Park",
+  "category": "Industrial",
+  "registration_no": "V601077276"
+}, {
+  "id": 14,
+  "company_name": "Lehner Inc",
+  "location": "2937 Banding Circle",
+  "category": "Tools",
+  "registration_no": "C896238905"
+}, {
+  "id": 15,
+  "company_name": "O'Conner, Carroll and Beier",
+  "location": "737 Anderson Park",
+  "category": "Home",
+  "registration_no": "H863822335"
+}, {
+  "id": 16,
+  "company_name": "Wisoky Group",
+  "location": "8278 Debra Hill",
+  "category": "Music",
+  "registration_no": "J838622465"
+}, {
+  "id": 17,
+  "company_name": "Fisher, Johnson and Lesch",
+  "location": "481 Golf View Road",
+  "category": "Garden",
+  "registration_no": "D969032249"
+}, {
+  "id": 18,
+  "company_name": "Greenholt, Mayer and Green",
+  "location": "04 Randy Place",
+  "category": "Games",
+  "registration_no": "N387194193"
+}, {
+  "id": 19,
+  "company_name": "Wehner-Medhurst",
+  "location": "68 Gale Terrace",
+  "category": "Tools",
+  "registration_no": "U657059961"
+}, {
+  "id": 20,
+  "company_name": "Lebsack-Lemke",
+  "location": "9 Acker Way",
+  "category": "Baby",
+  "registration_no": "B405248074"
+}
+  ]
 }
