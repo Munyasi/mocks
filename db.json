@@ -362,5 +362,35 @@
       "phone_no": "743-531-1893",
       "email": "amckailej@ed.gov"
     }
+  ],
+  "assigned_jobs": [
+    {
+      "id": "6eb79d94-104f-4637-9365-9bbdad5d009c",
+      "request_type": "NEWGRANT",
+      "pdp_ref_num": "4056ad07-a050-4d0f-8b48-599d25d24a95",
+      "computation_file": "6a2d3e70-535b-4a54-8644-97889a072cc7",
+      "allotment_letter": "01de1eaf-d621-450a-b8f3-1f73828d9b09",
+      "survey_plan_parcels": "12ed2168-3d66-4add-9271-e656df777538",
+      "survey_plan_beacons": "40234b0e-2df4-477a-aa24-829a74a8c257",
+      "additional_info": null,
+      "county": {
+        "name": "MERU",
+        "code": 12
+      }
+    },
+    {
+      "id": "98e07212-ee41-49ca-9568-6221d0ec669e",
+      "request_type": "NEWGRANT",
+      "pdp_ref_num": "0fc8673e-1ac3-4beb-a325-29fc6c44d287",
+      "computation_file": "8a11d059-336c-489b-8955-aaa6586eca8c",
+      "allotment_letter": "e59b7fdc-2dcb-4a35-8a58-e729445f6ba8",
+      "survey_plan_parcels": "754e1a69-e18a-41ab-92dd-2fba8e1d8194",
+      "survey_plan_beacons": "29b39800-f43f-4a0c-ae89-76eb1e2b8345",
+      "additional_info": null,
+      "county": {
+        "name": "MERU",
+        "code": 12
+      }
+    }
   ]
 }
