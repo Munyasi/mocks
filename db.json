@@ -47,6 +47,30 @@
       "ADRESS": "",
       "DATEOFBIRTH": "1960/12/05",
       "DISTRICTOFBIRTH": "MBALOZI"
+    },
+    {
+      "id": 5,
+      "IDNUMBER": "87356745",
+      "FATHERNAMES": "KEVIN OSORE OKIEK",
+      "FULLNAMES": "DAVID PAULE MCGUANE",
+      "MOTHERNAMES": "CLAIRE WANGOSI",
+      "SERIALNUMBER": "43683234",
+      "GENDER": "M",
+      "ADRESS": "",
+      "DATEOFBIRTH": "1960/12/05",
+      "DISTRICTOFBIRTH": "MBALOZI"
+    },
+    {
+      "id": 6,
+      "IDNUMBER": "87356731",
+      "FATHERNAMES": "GEORGE OSORE OKIEK",
+      "FULLNAMES": "PAUL PAULE MCGUANE",
+      "MOTHERNAMES": "DAISY WANGOSI",
+      "SERIALNUMBER": "43683266",
+      "GENDER": "M",
+      "ADRESS": "",
+      "DATEOFBIRTH": "1960/12/05",
+      "DISTRICTOFBIRTH": "MBALOZI"
     }
   ],
   "kra": [
@@ -179,6 +203,32 @@
       "FISRTNAME": "KATHI",
       "LASTNAME": "STRETTELL",
       "IDNUMBER": "94029622"
+    },
+    {
+      "id": 11,
+      "MIDDLENAME": "BECK",
+      "MPOBOX": "25",
+      "MTOWN": "ANG THONG",
+      "POCODE": "14000",
+      "RTELNO": "0728834986",
+      "STARTUPDATE": "2002/11/08",
+      "TAXPAYERSPIN": "N291937642",
+      "FISRTNAME": "AME",
+      "LASTNAME": "BRUCKMANN",
+      "IDNUMBER": "87356782"
+    },
+    {
+      "id": 12,
+      "MIDDLENAME": "MELICENT",
+      "MPOBOX": "4856",
+      "MTOWN": "SAN VICENTE PACAYA",
+      "POCODE": "05012",
+      "RTELNO": "0736735724",
+      "STARTUPDATE": "2014/11/13",
+      "TAXPAYERSPIN": "R654882919",
+      "FISRTNAME": "KATHI",
+      "LASTNAME": "STRETTELL",
+      "IDNUMBER": "87356731"
     }
   ],
   "companies": [
