@@ -71,6 +71,18 @@
       "ADRESS": "",
       "DATEOFBIRTH": "1960/12/05",
       "DISTRICTOFBIRTH": "MBALOZI"
+    },
+    {
+      "id": 7,
+      "IDNUMBER": "23386731",
+      "FATHERNAMES": "JACKSON OSORE OKIEK",
+      "FULLNAMES": "ELIUD PAULE MCGUANE",
+      "MOTHERNAMES": "LINDA KIMEI",
+      "SERIALNUMBER": "43683266",
+      "GENDER": "M",
+      "ADRESS": "",
+      "DATEOFBIRTH": "1960/12/05",
+      "DISTRICTOFBIRTH": "MBALOZI"
     }
   ],
   "kra": [
@@ -229,6 +241,19 @@
       "FISRTNAME": "KATHI",
       "LASTNAME": "STRETTELL",
       "IDNUMBER": "87356731"
+    },
+    {
+      "id": 13,
+      "MIDDLENAME": "MELICENT",
+      "MPOBOX": "4856",
+      "MTOWN": "SAN VICENTE PACAYA",
+      "POCODE": "05012",
+      "RTELNO": "0736735724",
+      "STARTUPDATE": "2014/11/13",
+      "TAXPAYERSPIN": "R654889999",
+      "FISRTNAME": "ELIUD",
+      "LASTNAME": "PAULE",
+      "IDNUMBER": "23386731"
     }
   ],
   "companies": [
@@ -240,51 +265,6 @@
       "registration_no": "U246681015",
       "phone_no": "365-455-8833",
       "email": "kstitle0@soup.io"
-    },
-    {
-      "id": 2,
-      "company_name": "Willms and Sons",
-      "location": "7 Crowley Pass",
-      "category": "Automotive",
-      "registration_no": "F713327339",
-      "phone_no": "618-946-9229",
-      "email": "cmcaulay1@icq.com"
-    },
-    {
-      "id": 3,
-      "company_name": "Skiles Inc",
-      "location": "091 Fallview Point",
-      "category": "Books",
-      "registration_no": "V328344969",
-      "phone_no": "492-707-6601",
-      "email": "pzipsell2@google.ru"
-    },
-    {
-      "id": 4,
-      "company_name": "Ullrich, Kub and Haley",
-      "location": "38402 Pond Road",
-      "category": "Beauty",
-      "registration_no": "R656916677",
-      "phone_no": "560-822-4967",
-      "email": "vbailey3@shutterfly.com"
-    },
-    {
-      "id": 5,
-      "company_name": "Smitham LLC",
-      "location": "67856 Dakota Alley",
-      "category": "Garden",
-      "registration_no": "R017947099",
-      "phone_no": "874-694-9178",
-      "email": "gstoyell4@ocn.ne.jp"
-    },
-    {
-      "id": 6,
-      "company_name": "Douglas-Nikolaus",
-      "location": "1929 Memorial Pass",
-      "category": "Electronics",
-      "registration_no": "L895012197",
-      "phone_no": "368-262-4253",
-      "email": "lguille5@timesonline.co.uk"
     }
   ]
 }
